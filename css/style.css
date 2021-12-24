@@ -1,0 +1,64 @@
+.muzik_dukkanim{
+    color: red;
+    text-align: center;
+}
+
+.navbar{
+   list-style: none; 
+   text-align: center;
+   padding-left: 0%;
+}
+
+.navbar li{
+    color: purple;
+    display: inline-block;
+    width: 150px;
+}
+
+.text_anasayfa{
+    text-align: center;
+    color: purple;
+    margin: 50px;
+}
+
+.Sitemizde_bulunan_enstrümanlar{
+    text-align: center;
+    color: sandybrown;
+}
+.anasayfa_enstrumanlar ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.text_urunlerimiz{
+    text-align: center;
+    color: purple;
+    margin: 50px;
+}
+
+.center_photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.enstruman_resimleri li{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.text_hakkımızda{
+    text-align: center;
+    color: purple;
+    margin: 50px;
+}
+
+.vizyonumuz{
+    text-align: left;
+    color: sandybrown;
+}
+.misyonumuz{
+    text-align: left;
+    color: sandybrown;
+}
